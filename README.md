@@ -2,6 +2,8 @@ click or press right arrow key...
 
 # Pageshow
 
+see it in action: [https://mwetzel7r.github.io/pageshow/](https://mwetzel7r.github.io/pageshow/)
+
 **Disclaimer**: i made this tool for my own courses; use at your own risk. there are things that could be made safer / more user friendly, but this works for my purposes so that's how it is
 
 Turn a markdown document into a series of html pages (using [pandoc](https://pandoc.org)) that you can navigate through like a slide show, like the markdown-to-slideshow tools that are out there ([Remarkable](https://github.com/Muffo/remarkable), [Marp](https://marp.app), etc)
