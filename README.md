@@ -6,6 +6,8 @@ see it in action: [https://mwetzel7r.github.io/pageshow/](https://mwetzel7r.gith
 
 **Disclaimer**: i made this tool for my own courses; use at your own risk. there are things that could be made safer / more user friendly, but this works for my purposes so that's how it is
 
+# What it does
+
 Turn a markdown document into a series of html pages (using [pandoc](https://pandoc.org)) that you can navigate through like a slide show, like the markdown-to-slideshow tools that are out there ([Remarkable](https://github.com/Muffo/remarkable), [Marp](https://marp.app), etc)
 - ^ except there's explicitly no slide formatting. no rules about making everything the same sized block. if a "slide" is too big, you just scroll down during the presentation
   - ^ this isn't how normal slideshows work, but that's the point. if you want to make a standard slide show you should use those tools
@@ -20,7 +22,7 @@ I got the sweet latex styling from [David Zollikofer](https://github.com/davidrz
 - [ ] [pandoc](https://pandoc.org)
 
 
-# Usage
+# How to use
 
 0. Download this repo
 1. Install pandoc and python (probably have to use a unix based os) if you don't have them
@@ -31,6 +33,7 @@ I got the sweet latex styling from [David Zollikofer](https://github.com/davidrz
 python3 make.py
 ```
 ^ or whatever it is you use to call a python script
+
 4. open up the `index.html` file in your browser to view
 - use right/left arrow keys or mouse click to navigate
 
