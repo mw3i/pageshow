@@ -30,10 +30,8 @@ I got the sweet latex styling from [David Zollikofer](https://github.com/davidrz
   - you can also change the heading level you want to split at (1,2,3,... -> #,##,###,...)
 3. run the `make.py` file in the terminal with:
 ```bash
-python3 make.py
+python3 make.py # <-- or whatever it is you use to call a python script
 ```
-^ or whatever it is you use to call a python script
-
 4. open up the `index.html` file in your browser to view
 - use right/left arrow keys or mouse click to navigate
 
